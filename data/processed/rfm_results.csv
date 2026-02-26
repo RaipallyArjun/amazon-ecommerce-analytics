@@ -1,0 +1,11 @@
+Customer_Name,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Total_Score
+Emma Clark,-1.0,26,26005,5,5,5,15
+Olivia Wilson,2.0,21,30495,3,5,5,13
+Jane Smith,-1.0,17,14345,5,4,2,11
+John Doe,8.0,21,22240,1,4,4,9
+Michael Brown,5.0,16,17175,2,3,4,9
+Daniel Harris,3.0,16,14545,2,3,3,8
+David Lee,2.0,15,14430,3,2,2,7
+Chris White,1.0,15,13060,4,2,1,7
+Sophia Miller,1.0,12,10315,4,1,1,6
+Emily Johnson,6.0,14,16205,1,1,3,5
